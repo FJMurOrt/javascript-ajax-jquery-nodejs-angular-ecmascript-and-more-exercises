@@ -1,22 +1,23 @@
-# Exercises in Javascript, JQuery, Ecmascript, Node.js and Angular.
-This repository contains exercises and mini-projects completed as part of my Web Application Development course.
+# Ejercicios de JavaScript, jQuery, ECMAScript, Node.js y Angular
 
-## Topics covered
-- ECMAScript (modern JS features, ES6+)
-- Control structures (if, switch, loops, etc.)
-- Arrays (including objects arrays)
-- Objects (including built-in objects)
-- DOM manipulation and styling
-- Forms and input validation (including RegExp)
-- AJAX with JSON and DATABASES.
-- Classes in JavaScript
-- Cookies management
-- jQuery fundamentals
-- Node.js fundamentals
-- Angular fundamentals (EXERCISES NOT INCLUDED YET)
+Este repositorio contiene ejercicios y mini desafíos personales.
 
-## Learning outcomes
-- Hands-on experience with JavaScript fundamentals and modern ES features
-- Frontend interactivity with DOM, jQuery, and Angular
-- Data handling using AJAX and JSON
-- Understanding of client-side storage, form validation, and backend basics with Node.js
+## Temas tratados
+- ECMAScript (características modernas de JavaScript, ES6+)
+- Estructuras de control (if, switch, bucles, etc.)
+- Arrays (incluyendo arrays de objetos)
+- Objetos (incluyendo objetos integrados de JavaScript)
+- Manipulación y estilos del DOM
+- Formularios y validación de datos (incluyendo expresiones regulares)
+- AJAX con JSON y bases de datos
+- Clases en JavaScript
+- Gestión de cookies
+- Fundamentos de jQuery
+- Fundamentos de Node.js
+- Fundamentos de Angular (EJERCICIOS AÚN NO INCLUIDOS)
+
+## Resultados de aprendizaje
+- Experiencia práctica con los fundamentos de JavaScript y las características modernas de ES6+
+- Interactividad frontend mediante DOM, jQuery y Angular
+- Manejo de datos utilizando AJAX y JSON
+- Comprensión del almacenamiento en el lado del cliente, validación de formularios y conceptos básicos de backend con Node.js
