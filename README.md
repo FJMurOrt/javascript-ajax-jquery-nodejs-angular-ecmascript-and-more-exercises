@@ -14,7 +14,7 @@ Este repositorio contiene ejercicios y mini desafíos personales.
 - Gestión de cookies
 - Fundamentos de jQuery
 - Fundamentos de Node.js
-- Fundamentos de Angular (EJERCICIOS AÚN NO INCLUIDOS)
+- Fundamentos de Angular
 
 ## Resultados de aprendizaje
 - Experiencia práctica con los fundamentos de JavaScript y las características modernas de ES6+
